@@ -65,8 +65,6 @@ print(f"{num_codes}个激活码已生成并保存到{output_file}文件中。")
 
 ### 逐行解释代码：
 
-当然，我很乐意为你解释这段代码的每一行。
-
 ```python
 import random
 import string
